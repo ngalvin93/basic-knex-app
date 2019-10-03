@@ -1,16 +1,17 @@
 {
   "name": "basic-knex-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic application using express and knex",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alvin Ng",
   "license": "ISC",
   "dependencies": {
     "express": "4.17.1",
-    "knex": "0.19.4"
+    "knex": "0.19.4",
+    "pg": "7.12.1"
   }
 }
